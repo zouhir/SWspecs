@@ -1,0 +1,36 @@
+body {
+  padding: 20px 20px;
+  max-width: 900px;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+marquee {
+  color: red;
+  font-size: 20px;
+  margin: 20px 0px;
+  max-width: 900px;
+}
+
+input {
+  margin-bottom: 20px;
+}
+label {
+  font-size: 18px;
+}
+a {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 26px;
+  color: green;
+  float: right;
+}
+
+.offline {
+  background: #000 !important;
+}
+
+.offline h1, .offline p, .offline label {
+  color: #FFF;
+}
