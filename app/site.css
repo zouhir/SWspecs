@@ -20,7 +20,7 @@ input {
 label {
   font-size: 18px;
 }
-a {
+a.big {
   font-family: 'Press Start 2P', cursive;
   font-size: 26px;
   color: green;
